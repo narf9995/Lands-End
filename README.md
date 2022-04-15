@@ -1,4 +1,4 @@
-u/possumgumbo on r/cribbage  summarized this post better than I could:
+[u/possumgumbo](https://www.reddit.com/u/possumgumbo/) on [r/cribbage](https://www.reddit.com/r/cribbage/)  summarized this post better than I could:
 > This is a gambling game, players decide a stake at the beginning of the round.
 >
 >Play cribbage with the intent of scoring as little as possible
