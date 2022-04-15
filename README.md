@@ -1,4 +1,3 @@
-# Land's End
 u/possumgumbo on r/cribbage  summarized this post better than I could:
 > This is a gambling game, players decide a stake at the beginning of the round.
 >
@@ -31,7 +30,7 @@ Minstrels sing about it's masters & exploits.
 
 The Church says playing for money is a sin.
 
-A hermit once told me dragons created it...
+A theirmit once told me dragons created it...
 
 You choose whose right.
 
@@ -45,11 +44,11 @@ One important element of the game is the board. Land's End boards are typically 
 
 If you have a folding Cribbage board then that's the ideal as this is what was originally used to play. There is no "16th Peg" when the board is folded, so the players "Falls of the End of the World" when they "Peg Out". This is the origin of the games name. Land's End is ultimately just a quicker, reversed, & much more cutthroat variation on Cribbage.
 
-## HOW TO DEAL 
+## HOW TO DEAL
 
 Start with a standard fifty-two-card deck. Cards rank high to low from king down to ace. Face cards are all worth 10, aces are worth 1, and all other cards are worth their index value. Deal each player six cards, one at a time and face down. No other cards are dealt.
 
-Each player looks at their cards and then nominates two cards to place face down in the center of the table. This is the "pocket", an extra hand of four cards that always belongs to the dealer. Once the pocket is established, the non-dealer cuts the deck, and the dealer turns up the top card from the lower portion of the deck. This is the turn-up card, which is used by both players as a fifth card in their hand. If the turn-up card is a jack, the dealer scores 1 point for His Heels (see “Scoring” below).
+Each player looks at their cards and then nominates two cards to place face down in the center of the table. This is the "pocket", an extra hand of four cards that always belongs to the dealer. Once the pocket is established, the non-dealer cuts the deck, and the dealer turns up the top card from the lower portion of the deck. This is the turn-up card, which is used by both players as a fifth card in their hand. If the turn-up card is a jack, the dealer scores 1 point for their Heels (see “Scoring” below).
 
 ## SCORING
 
@@ -72,7 +71,7 @@ Two cards of the same rank earn 2 points. In the matching phase, players earn po
 
 ### Multiple Pairs
 
-Three cards of the same rank are worth 6 points, because they can be combined into three sets of pairs. For example, 4 of hearts, 4 of diamonds, 4 of clubs in your hand may be combined into three pairs of fours (4 of hearts-4 of diamonds, 4 of hearts-4 of clubs, 4 of diamonds-4 of clubs) for a total of 6 points. With four cards of the same rank, you earn 12 total points for making six sets of pairs. Multiple pairs also may be played in the matching phase. For example, player one throws 5 of hearts and player two throws 5 of clubs for 2 points. If player one replies with 5 of diamonds, he earns 6 points for three sets of pairs (5 of hearts-5 of clubs, 5 of hearts-5 of diamonds, 5 of clubs-5 of diamonds). If player two miraculously follows with a fourth card of the same rank, she earns 12 points.
+Three cards of the same rank are worth 6 points, because they can be combined into three sets of pairs. For example, 4 of hearts, 4 of diamonds, 4 of clubs in your hand may be combined into three pairs of fours (4 of hearts-4 of diamonds, 4 of hearts-4 of clubs, 4 of diamonds-4 of clubs) for a total of 6 points. With four cards of the same rank, you earn 12 total points for making six sets of pairs. Multiple pairs also may be played in the matching phase. For example, player one throws 5 of hearts and player two throws 5 of clubs for 2 points. If player one replies with 5 of diamonds, they earns 6 points for three sets of pairs (5 of hearts-5 of clubs, 5 of hearts-5 of diamonds, 5 of clubs-5 of diamonds). If player two miraculously follows with a fourth card of the same rank, they earn 12 points.
 
 ### Run
 
@@ -84,17 +83,17 @@ In the matching phase, players earn points for runs even if the cards are not pl
 
 At minimum, a flush is four cards of the same suit, regardless of rank. So the hand 3 of hearts-7 of hearts-10 of hearts-J of hearts is worth 4 points (1 point for each card in the flush). If the turn-up card is also a heart, the hand is worth 5 points. Flushes are earned only for cards held in your own hand. Flushes may not be earned during the matching phase, and four-card flushes in the pocket do not earn any points. However, if the pocket cards are of the same suit and if the turn-up card matches that suit, then the pocket owner earns 5 points for a pocket flush.
 
-### His Nobs
+### their Nobs
 
 This oddly named bonus (worth 1 point) is earned by any player who holds a jack of the same suit as the turn-up card.
 
-### His Heels
+### their Heels
 
-Another oddly named bonus (1 point), this time earned by the dealer when she happens to turn up a jack.
+Another oddly named bonus (1 point), this time earned by the dealer when they happens to turn up a jack.
 
 ### Go Point
 
-A player pegs 1 “go” point when his opponent cannot play a card without taking the total over 31 points; or 2 “go” points for himself when he scores exactly 31 points and forces his opponent to begin play back at zero.
+A player pegs 1 “go” point when their opponent cannot play a card without taking the total over 31 points; or 2 “go” points for himself when they scores exactly 31 points and forces their opponent to begin play back at zero.
 
 
 ### Last Point
@@ -107,17 +106,17 @@ Each hand of Land's End is divided into two phases, the matching phase and the s
 
 ### Matching Phase
 
-Once the pocket is established and the turn-up card is settled, the game starts with the non-dealer leading a single card from her hand, face up, and announcing the card’s rank out loud (for example, if you play 5 of hearts, announce “five”). Players then alternate throwing cards face up on the table, in an attempt to earn points by combining their cards plus their opponent’s into pairs, runs, fifteens, and “go” points.
+Once the pocket is established and the turn-up card is settled, the game starts with the non-dealer leading a single card from their hand, face up, and announcing the card’s rank out loud (for example, if you play 5 of hearts, announce “five”). Players then alternate throwing cards face up on the table, in an attempt to earn points by combining their cards plus their opponent’s into pairs, runs, fifteens, and “go” points.
 
-For example, if player one throws 7 of diamonds and player two throws 7 of hearts, player two pegs 2 points for a pair. If player one replies with 7 of spades, she pegs 6 total points for creating three sets of pairs.
+For example, if player one throws 7 of diamonds and player two throws 7 of hearts, player two pegs 2 points for a pair. If player one replies with 7 of spades, they pegs 6 total points for creating three sets of pairs.
 
-Alternatively, if no pairs, runs, or fifteens are scored, then the player who cannot play a card without going over 31 total points sacrifices a “go” point to his opponent. For example, if player one leads 10 of hearts, player two follows with Q of spades, and player one replies with 8 of diamonds, then player two either must throw a three (thereby pegging 2 points for hitting 31 exactly); or throw an ace or a two, keeping the total below 31 points; or, if she cannot play a card without exceeding 31 points, peg 1 “go” point to her opponent. In the latter case, the count begins again at zero and the next card is led by player one.
+Alternatively, if no pairs, runs, or fifteens are scored, then the player who cannot play a card without going over 31 total points sacrifices a “go” point to their opponent. For example, if player one leads 10 of hearts, player two follows with Q of spades, and player one replies with 8 of diamonds, then player two either must throw a three (thereby pegging 2 points for hitting 31 exactly); or throw an ace or a two, keeping the total below 31 points; or, if they cannot play a card without exceeding 31 points, peg 1 “go” point to their opponent. In the latter case, the count begins again at zero and the next card is led by player one.
 
 The player who throws the last card in the matching phase scores 1 point.
 
 ### Showing Phase
 
-Once each player has exhausted his four cards, each “shows” and scores his cards in the following strict order: non-dealer, dealer, dealer’s pocket.
+Once each player has exhausted their four cards, each “shows” and scores their cards in the following strict order: non-dealer, dealer, dealer’s pocket.
 
 The turn-up card is used by both players as a fifth card in their hands.
 
@@ -143,7 +142,7 @@ Similarly, announce what you’re scoring as you play. If you throw 5 of diamond
 
 Table talk is not allowed in Land's End. So do not discuss or drop hints about cards you hold, cards in the pocket, points of strategy, etc.
 
-If a player forgets to peg a score they are entitled to, or simply doesn’t add her points properly, once the next card is played, the opponent may declare "muggins" and force the player to score double the total sum of their unearned points.
+If a player forgets to peg a score they are entitled to, or simply doesn’t add their points properly, once the next card is played, the opponent may declare "muggins" and force the player to score double the total sum of their unearned points.
 
 ## VARIATIONS
 
@@ -154,16 +153,16 @@ In Three-hand Casino the house is the third player & uses the middle track to sc
 
 In the matching phase, the only difference is that in the case of a go point being earned, the next round is always opened by the first player unable to play a card in the previous round. The player to the left (if play is clockwise) or to the right (if play is counterclockwise) of the dealer determines the turn-up card, and also opens. When scoring during the showing phase, the order is always the same direction as decided at the beginning of the game.
 
-The rarer form of casino play uses the two-hand traditional version. The only difference is that the house always deals & the player always scores the pocket. There is no rotation of the pocket. 
+The rarer form of casino play uses the two-hand traditional version. The only difference is that the house always deals & the player always scores the pocket. There is no rotation of the pocket.
 
 ### Variation 1: Cribbage
-#### HOW TO DEAL 
+#### HOW TO DEAL
 Start with a standard fifty-two-card deck. Cards rank high to low from king down to ace. Face cards are worth 10 points, aces are worth 1, and all other cards are worth their index value. Deal each player six cards, one at a time and face down. No other cards are dealt.
 
-Each player looks at her cards and then nominates two cards to place face down in the center of the table. This is the crib, an extra hand of four cards that always belongs to the dealer. Once the crib is established, the non-dealer cuts the deck, and the dealer turns up the top card from the lower portion of the deck. This is the turn-up card, which is used by both players as a fifth card in their hand. If the turn-up card is a jack, the dealer scores 1 point for His Heels (see “Scoring” below).
+Each player looks at their cards and then nominates two cards to place face down in the center of the table. This is the crib, an extra hand of four cards that always belongs to the dealer. Once the crib is established, the non-dealer cuts the deck, and the dealer turns up the top card from the lower portion of the deck. This is the turn-up card, which is used by both players as a fifth card in their hand. If the turn-up card is a jack, the dealer scores 1 point for their Heels (see “Scoring” below).
 
 #### SCORING
-The goal in Cribbage is to be the first player to score 121 points (in tournament play, if a player wins with 121 points before his opponent scores 61 points, a double-game score is earned). Players earn points for scoring the following combinations:
+The goal in Cribbage is to be the first player to score 121 points (in tournament play, if a player wins with 121 points before their opponent scores 61 points, a double-game score is earned). Players earn points for scoring the following combinations:
 
 
 #### HOW TO PLAY
@@ -171,14 +170,14 @@ Each hand of Cribbage is divided into two phases, the matching phase and the sho
 
 
 ##### Matching Phase
-Once the crib is established and the turn-up card is settled, the game starts with the non-dealer leading a single card from her hand, face up, and announcing the card’s rank out loud (for example, if you play 5 of hearts, announce “five”). Players then alternate throwing cards face up on the table, in an attempt to earn points by combining their cards plus their opponent’s into pairs, runs, fifteens, and “go” points.
-For example, if player one throws 7 of diamonds and player two throws 7 of hearts, player two pegs 2 points for a pair. If player one replies with 7 of spades, she pegs 6 total points for creating three sets of pairs.
+Once the crib is established and the turn-up card is settled, the game starts with the non-dealer leading a single card from their hand, face up, and announcing the card’s rank out loud (for example, if you play 5 of hearts, announce “five”). Players then alternate throwing cards face up on the table, in an attempt to earn points by combining their cards plus their opponent’s into pairs, runs, fifteens, and “go” points.
+For example, if player one throws 7 of diamonds and player two throws 7 of hearts, player two pegs 2 points for a pair. If player one replies with 7 of spades, they pegs 6 total points for creating three sets of pairs.
 
-Alternatively, if no pairs, runs, or fifteens are scored, then the player who cannot play a card without going over 31 total points sacrifices a “go” point to his opponent. For example, if player one leads 10 of hearts, player two follows with Q of spades, and player one replies with 8 of diamonds, then player two either must throw a three (thereby pegging 2 points for hitting 31 exactly); or throw an ace or a two, keeping the total below 31 points; or, if she cannot play a card without exceeding 31 points, peg 1 “go” point to her opponent. In the latter case, the count begins again at zero and the next card is led by player one.
+Alternatively, if no pairs, runs, or fifteens are scored, then the player who cannot play a card without going over 31 total points sacrifices a “go” point to their opponent. For example, if player one leads 10 of hearts, player two follows with Q of spades, and player one replies with 8 of diamonds, then player two either must throw a three (thereby pegging 2 points for hitting 31 exactly); or throw an ace or a two, keeping the total below 31 points; or, if they cannot play a card without exceeding 31 points, peg 1 “go” point to their opponent. In the latter case, the count begins again at zero and the next card is led by player one.
 The player who throws the last card in the matching phase scores 1 point.
 
 ##### Showing Phase
-Once each player has exhausted his four cards, each “shows” and scores his cards in the following strict order: non-dealer, dealer, dealer’s crib.
+Once each player has exhausted their four cards, each “shows” and scores their cards in the following strict order: non-dealer, dealer, dealer’s crib.
 
 The turn-up card is used by both players as a fifth card in their hands.
 
@@ -194,7 +193,7 @@ There’s no more frustrating hand to be dealt when you’re the non-dealer than
 
 #### POINTS OF ETIQUETTE
 
-If a player forgets to peg a score she is entitled to, or simply doesn’t add her points properly, once the next card is played, the opponent may declare muggins and take the unearned points as her own.
+If a player forgets to peg a score they is entitled to, or simply doesn’t add their points properly, once the next card is played, the opponent may declare muggins and take the unearned points as their own.
 
 ### Variation 2: Reverse Cribbage
 This is played exactly like the Cribbage variation, the only difference is that the first player to score 121 points loses rather than wins just like in Land's End. This is a superb variation for veteran Cribbage players who love the basic game, but are looking for new challenges.
@@ -217,6 +216,6 @@ The player to the left of the dealer determines the turn-up card and leads the f
 This is a no-peekie offshoot of Land's End (think of it as standard Land's End minus the matching phase) and uses most of the same scoring rules. The game is best for two players sitting side-by-side (not across from each other). Deal twelve cards to each player, face down in a pile, and do not look at any cards. Take the next card and lay it face up in the middle of the table. Put a marker (penny, beer cap, matchstick, etc.) on top of it. No other cards are dealt.
 Tabletop Land's End uses a five-by-five layout of cards. The object is to play point-earning cards in rows (if you’re the non-dealer) or columns (if you’re the dealer). The non-dealer leads, and plays a card in any empty slot. The only restriction is that the card must touch the edge of an existing card on the board, either to the side, top or bottom, or diagonal edge.
 
-[Tabletop Land's End Diagram](https://i.imgur.com/SCr8Kpn.png)
+[Tabletop Land's End Diagram](/data/images/tabletop_cribbage.png)
 
-Each player alternates taking a card from his hand (remember, players are not allowed to look at their cards) and playing it on the board. No points are scored until all twenty-four cards have been played. The non-dealer always counts points first. Each row or column is treated like a standard hand of Land's End, scoring points for pairs, runs, and/or fifteens. Only five-card flushes are allowed. No points are awarded for His Heels or His Nobs.
+Each player alternates taking a card from their hand (remember, players are not allowed to look at their cards) and playing it on the board. No points are scored until all twenty-four cards have been played. The non-dealer always counts points first. Each row or column is treated like a standard hand of Land's End, scoring points for pairs, runs, and/or fifteens. Only five-card flushes are allowed. No points are awarded for their Heels or their Nobs.
