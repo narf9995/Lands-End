@@ -9,6 +9,7 @@
 >
 >Do this on repeat until you are sick of it or broke.
 
+## Introduction
 I initially wrote this game based on the rules of Cribbage for my Tabletop Role Playing Game setting. Most of my favorite settings have had an in-world gambling game the players could use to kill time & make some quick, albeit risky cash. So I set out on the quest of making my own gambling game.
 
 I love cribbage as my grandfather taught it to me. It's easily my favorite card game I've played, but could never get my friends to play a 61-point game. Nevermind a 121-point one & traditional multi-game "tournament" play was completely out the window. That's why I combined Reverse Cribbage with Nineteen & added some other rules to make play quicker. Honestly it turned out better than I expected it to. It's a very quick, cutthroat game that is great for betting. With the right mix of skill & luck, you could theoretically quadruple a bet in just one round of play. I already know it works well enough for my intentions, but I am wondering if the rules stand up to more competent/experienced card players.
