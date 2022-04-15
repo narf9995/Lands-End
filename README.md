@@ -216,6 +216,6 @@ The player to the left of the dealer determines the turn-up card and leads the f
 This is a no-peekie offshoot of Land's End (think of it as standard Land's End minus the matching phase) and uses most of the same scoring rules. The game is best for two players sitting side-by-side (not across from each other). Deal twelve cards to each player, face down in a pile, and do not look at any cards. Take the next card and lay it face up in the middle of the table. Put a marker (penny, beer cap, matchstick, etc.) on top of it. No other cards are dealt.
 Tabletop Land's End uses a five-by-five layout of cards. The object is to play point-earning cards in rows (if you’re the non-dealer) or columns (if you’re the dealer). The non-dealer leads, and plays a card in any empty slot. The only restriction is that the card must touch the edge of an existing card on the board, either to the side, top or bottom, or diagonal edge.
 
-[Tabletop Land's End Diagram](/data/images/tabletop_cribbage.png)
+![Tabletop Land's End Diagram](/data/images/tabletop_cribbage.png)
 
 Each player alternates taking a card from their hand (remember, players are not allowed to look at their cards) and playing it on the board. No points are scored until all twenty-four cards have been played. The non-dealer always counts points first. Each row or column is treated like a standard hand of Land's End, scoring points for pairs, runs, and/or fifteens. Only five-card flushes are allowed. No points are awarded for their Heels or their Nobs.
