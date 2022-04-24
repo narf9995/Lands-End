@@ -14,7 +14,7 @@ I initially wrote this game based on the rules of Cribbage for my Tabletop Role 
 
 I love cribbage as my grandfather taught it to me. It's easily my favorite card game I've played, but could never get my friends to play a 61-point game. Nevermind a 121-point one & traditional multi-game "tournament" play was completely out the window. That's why I combined Reverse Cribbage with Nineteen & added some other rules to make play quicker. Honestly it turned out better than I expected it to. It's a very quick, cutthroat game that is great for betting. With the right mix of skill & luck, you could theoretically quadruple a bet in just one round of play. I already know it works well enough for my intentions, but I am wondering if the rules stand up to more competent/experienced card players.
 
-I've played a few games with myself & enjoyed it, but have yet to get some friends together to playtest it. I'm not sure if this is the right place to share this, but I had enough fun that I thought other card players might enjoy this variation regardless of wether or not it's ultimately intended for an RPG setting. I also included some variations below, including the cribbage rules I based this document off of. They are originally from Scott McNeely's *Ultimate Book of Card Games*.
+I've played a few games with myself & enjoyed it, but have yet to get some friends together to playtest it. I had enough fun that I thought other card players might enjoy this variation regardless of wether or not it's ultimately intended for an RPG setting. I also included some variations below, including the cribbage rules I based this document off of. They are originally from Scott McNeely's *Ultimate Book of Card Games*.
 
 # LAND'S END
 Scholars say it's a cultural variation.
