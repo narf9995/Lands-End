@@ -32,7 +32,7 @@ Minstrels sing about it's masters & exploits.
 
 The Church says playing for money is a sin.
 
-A theirmit once told me dragons created it...
+A hermit once told me dragons created it...
 
 You choose whose right.
 
